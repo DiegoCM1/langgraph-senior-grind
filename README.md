@@ -1,7 +1,11 @@
 <!-- List of concepts to explain -->
 
+Focus on Graph API:
+    The thing is that Graph API is more explicit. Resembles FastAPI work. If you want to learn, this is the way.
+
  Tier 1 — Foundations
-  1. What LangGraph is & why it exists
+  1. What LangGraph is & why it exists ✅
+  1.1 Mental model for state, nodes and edges, reducers, how they interact.
   2. State schema & reducers ← new, non-negotiable
   3. Nodes, edges, START/END, .compile()
   4. Graph API vs Functional API ← new, short

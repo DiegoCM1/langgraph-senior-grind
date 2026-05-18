@@ -2,10 +2,11 @@
 This repo is my daily 90-min Prep + Content block (9:30 AM). One folder per concept (`01-langgraph-state/`, `02-rag-hybrid/`, etc.). Each folder is a self-contained MRE — one main file, mocked dependencies, no infrastructure. The goal is interview prep + Build-in-Public content, NOT building a product.
 
 ## The Daily Loop
-1. **20 min** Read & extract 1 concept → 5-8 bullets + snippet (I do this, not you)
-2. **45 min** Build working repro from scratch (your job is to coach, not to write)
-3. **10 min** Out-loud drill 
+1. **20 min** Read & extract 1 concept → 5-8 bullets + snippet (I do this, not you) (Input + first compression check)
+2. **45 min** Build working repro from scratch (your job is to coach, not to write) (Understanding, internalize by doing)
+3. **10 min** Out-loud drill (Understanding test, if can't then the thing hasn't been learned yet)
 4. **15 min** Record 60-sec OBS video over the working code
+5. **5 min** Flashcards from the session if important.
 
 ## How You Help Me
 
